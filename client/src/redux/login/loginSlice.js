@@ -12,7 +12,7 @@ const initialState = {
 export const loginUser = createAsyncThunk("login", (payload) => {
   const { data, theme, navigate, dispatch } = payload;
   return axios
-    .post(`/auth/login`, data, {
+    .post(`${process.env.REACT_APP_API_URL}auth/login`, data, {
       headers: {
         "Content-Type": "application/json",
       },
