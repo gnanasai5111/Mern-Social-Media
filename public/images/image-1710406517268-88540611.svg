@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73.797" height="76.827" viewBox="0 0 73.797 76.827">
+    <g data-name="Group 10898" style="opacity:.2">
+        <g data-name="Icons - Actions - ic-actions-emultiple-edit">
+            <path data-name="Rectangle 131" transform="translate(0 9.973)" style="fill:none" d="M0 0h66.334v66.853H0z"/>
+            <path data-name="Rectangle 3768" transform="translate(8.972 21.127)" style="opacity:.3;fill:#fff" d="M0 0h43.449v43.449H0z"/>
+            <path data-name="Path 15" d="M50.579 26.408v14.96c0 2.9-2.825 5.249-6.309 5.249H12.029c-3.485 0-6.309-2.35-6.309-5.249V7.249C5.72 4.35 8.545 2 12.029 2h18.613" transform="translate(3.252 18.35)" style="stroke-linejoin:bevel;stroke-linecap:round;stroke:#444343;stroke-width:4px;fill:none"/>
+            <g data-name="Group 10891">
+                <path data-name="Path 22430" d="M12.263-.009h.249A12.123 12.123 0 0 1 24.7 12.165a12.325 12.325 0 0 1-12.272 12.259h-.249A12.123 12.123 0 0 1-.01 12.25 12.325 12.325 0 0 1 12.263-.009z" transform="rotate(39 21.9 74.527)" style="stroke-linecap:round;stroke:#444343;stroke-width:4px;fill:#fff"/>
+                <path data-name="Path 22431" d="M6.819 0h.249a6.741 6.741 0 0 1 6.778 6.77 6.853 6.853 0 0 1-6.824 6.816h-.25A6.741 6.741 0 0 1-.005 6.812 6.853 6.853 0 0 1 6.819 0z" transform="rotate(39 11.537 79.48)" style="fill:#3d87f1"/>
+                <path data-name="Subtraction 1" d="M4.045 8.142 0 .022h.822a3.391 3.391 0 0 0 3.287 2.625A3.387 3.387 0 0 0 7.4 0h.743l-4.1 8.147z" transform="rotate(39 -24.875 71.412)" style="stroke:#444343;stroke-width:4px;fill:#fff"/>
+            </g>
+            <path data-name="Path 22427" d="M0 .128A.353.353 0 0 1 .269 0a.353.353 0 0 1 .269.128H17.7" transform="rotate(90 -8.21 36.524)" style="stroke-linejoin:round;stroke-linecap:round;stroke:#444343;stroke-width:4px;fill:none"/>
+            <path data-name="Path 22428" d="M0 .127C.036.046.088 0 .142 0s.105.046.142.127h9.05" transform="translate(28.315 53.459)" style="stroke-linejoin:round;stroke-linecap:round;stroke:#444343;stroke-width:4px;fill:none"/>
+            <path data-name="Path 22429" d="M0 0c.036.082.087.128.141.128S.246.082.282 0h9" transform="rotate(90 -1.397 20.857)" style="stroke-linejoin:round;stroke-linecap:round;stroke:#444343;stroke-width:4px;fill:none"/>
+        </g>
+    </g>
+</svg>

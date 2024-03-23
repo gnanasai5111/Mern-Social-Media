@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="157" height="157" viewBox="0 0 157 157">
+    <defs>
+        <linearGradient id="ce3sflgmfb" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#235aa7"/>
+            <stop offset=".243" stop-color="#3d87f1"/>
+            <stop offset=".51" stop-color="#3d87f1"/>
+            <stop offset=".781" stop-color="#3d87f1"/>
+            <stop offset="1" stop-color="#1f4479"/>
+        </linearGradient>
+        <linearGradient id="dpi276rwtc" x1=".687" y1="1" x2=".615" y2=".157" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#3d87f1"/>
+            <stop offset=".46" stop-color="#3d87f1"/>
+            <stop offset="1" stop-color="#1f4479"/>
+        </linearGradient>
+        <linearGradient id="czgol0ctod" x1=".5" x2=".5" y2=".857" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#3d87f1"/>
+            <stop offset=".453" stop-color="#3d87f1"/>
+            <stop offset="1" stop-color="#1f4479"/>
+        </linearGradient>
+        <filter id="2mhkvroaza" x="0" y="0" width="157" height="157" filterUnits="userSpaceOnUse">
+            <feOffset dy="18"/>
+            <feGaussianBlur stdDeviation="17.5" result="blur"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Illustration/ Finance">
+        <g data-name="ic-Working Capital illustration">
+            <g style="filter:url(#2mhkvroaza)">
+                <circle data-name="Ellipse 343" cx="26" cy="26" r="26" transform="translate(52.5 34.5)" style="fill:#fff"/>
+            </g>
+            <g data-name="Group 10822">
+                <g data-name="Group 10821">
+                    <g data-name="Group 10820">
+                        <path data-name="Path 25706" d="M392.748 267.817h-6.386a.2.2 0 0 0-.135.345 6.606 6.606 0 0 1 2 3.954.2.2 0 0 0 .194.172h4.332a.2.2 0 0 1 .2.2v1.792a.2.2 0 0 1-.2.2h-4.283a.2.2 0 0 0-.2.178c-.492 4.252-3.8 6.995-8.992 7.3a.2.2 0 0 0-.132.337c3.2 3.41 6.659 7.622 10.087 11.891a.2.2 0 0 1-.152.326h-3.632a.2.2 0 0 1-.151-.072c-3.326-4.074-6.447-7.853-10.45-12.186a.2.2 0 0 1-.053-.137v-2.439a.2.2 0 0 1 .2-.2h2.175c4.538 0 7.028-1.873 7.431-4.768a.2.2 0 0 0-.2-.228h-9.411a.2.2 0 0 1-.2-.2v-1.792a.2.2 0 0 1 .2-.2h9.247a.2.2 0 0 0 .189-.256c-.694-2.371-2.949-3.557-6.572-3.557h-2.864a.2.2 0 0 1-.2-.2v-2.449a.2.2 0 0 1 .2-.2h17.757a.2.2 0 0 1 .2.2v1.792a.2.2 0 0 1-.199.197z" transform="translate(-304.186 -218.836)" style="fill:url(#ce3sflgmfb)"/>
+                    </g>
+                    <path data-name="Path 25707" d="M273.726 292.635a12.81 12.81 0 0 0 .328 12.443" transform="translate(-209.335 -243.748)" style="stroke:#3d87f1;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px"/>
+                    <path data-name="Path 25708" d="m229.25 216.356-3.7-1.407-3.7-1.407 1.9-1.551a14.258 14.258 0 0 1-2.2-12.008 17.469 17.469 0 0 1 11.728-12.2 14.207 14.207 0 0 0-9.426 17.345 14.062 14.062 0 0 0 2.4 4.82l1.732-1.412.634 3.911z" transform="translate(-161.843 -146.633)" style="fill:url(#dpi276rwtc)"/>
+                    <path data-name="Path 25709" d="M678.064 448.947a15.665 15.665 0 0 1-.985 9.675 19.053 19.053 0 0 1-5.744 7.349" transform="translate(-579.004 -388.396)" style="stroke:#3d87f1;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px"/>
+                    <path data-name="Path 25710" d="m554.893 334.817 3.443 1.96 3.444 1.96-2.117 1.24a14.258 14.258 0 0 1 .323 12.2 17.47 17.47 0 0 1-13.465 10.255 14.207 14.207 0 0 0 11.98-15.69 14.063 14.063 0 0 0-1.631-5.132l-1.928 1.129-.025-3.962z" transform="translate(-463.237 -282.538)" style="fill:url(#czgol0ctod)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
