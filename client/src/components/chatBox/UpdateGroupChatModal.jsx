@@ -66,9 +66,9 @@ function UpdateGroupChatModal({ setShowModal, chatData }) {
   };
 
   return (
-    <div className="group-chat-modal">
+    <div className="group-chat-modal group-chat-modal">
       <div className="group-chat-header">
-        <h6>Create Group Chat</h6>
+        <h6>Update Group Chat</h6>
         <MdCancel onClick={() => setShowModal(false)} />
       </div>
       <div className="form">
