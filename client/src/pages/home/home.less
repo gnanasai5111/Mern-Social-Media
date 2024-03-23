@@ -1,0 +1,26 @@
+.home-wrapper {
+  display: flex;
+  & .side-bar-profile {
+    width: 20%;
+  }
+  & .posts-wrapper {
+    width: 50%;
+  }
+  & .my-friends-wrapper {
+    width: 30%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .home-wrapper {
+    & .side-bar-profile {
+      display: none;
+    }
+    & .posts-wrapper {
+      width: 100%;
+    }
+    & .my-friends-wrapper {
+      display: none;
+    }
+  }
+}

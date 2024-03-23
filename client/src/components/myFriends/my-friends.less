@@ -1,0 +1,64 @@
+.my-friends-wrapper {
+  margin: 20px;
+  & .all-friends {
+    height: calc(100vh - 75px);
+    padding: 10px 0;
+    & .top-part {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 0;
+      overflow: hidden;
+      font-size: 1.2rem;
+      font-weight: 300;
+      border-bottom: 1px solid;
+      & span {
+        max-width: 40%;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+    }
+    & .details {
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      & div:first-child {
+        margin-top: 1rem;
+      }
+      & div {
+        display: flex;
+        flex-direction: column;
+        width: 25%;
+        margin-bottom: 1rem;
+        & h1 {
+          font-size: 1rem;
+          font-weight: 600;
+        }
+        & p {
+          font-size: 0.9rem;
+        }
+      }
+    }
+    & .icons-group {
+      display: flex;
+      align-items: center;
+      & svg,
+      button {
+        margin-left: 10px;
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 576px) {
+  & .details {
+    // flex-direction: column !important;
+    & div {
+      width: 50% !important;
+    }
+  }
+}

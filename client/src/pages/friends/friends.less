@@ -1,0 +1,18 @@
+.friends-wrapper {
+  display: flex;
+  & .side-bar-profile {
+    width: 20%;
+  }
+  & .my-friends-wrapper {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  & .side-bar-profile {
+   display: none;
+  }
+  & .my-friends-wrapper {
+    width: 100%;
+  }
+}

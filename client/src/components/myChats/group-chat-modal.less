@@ -1,0 +1,49 @@
+.group-chat-modal {
+  max-width: 300px;
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+  border: 1px solid;
+  z-index: 1000;
+  & .group-chat-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    padding: 10px 8px;
+    & h6 {
+      font-size: 1rem;
+    }
+    & svg {
+      cursor: pointer;
+    }
+  }
+  & .form {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+    & input {
+      height: 2.5rem;
+      width: 100%;
+      border-radius: 6px;
+    }
+    & h6 {
+      font-size: 1rem;
+      margin: 10px 0;
+    }
+    & select {
+      max-height: 20vh;
+      overflow: auto;
+      width: 100%;
+      margin-bottom: 10px;
+      & option {
+        padding: 4px;
+        font-size: 0.9rem;
+        border-bottom: 1px solid;
+      }
+    }
+  }
+}

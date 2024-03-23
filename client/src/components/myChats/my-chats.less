@@ -1,0 +1,38 @@
+.my-chats-wrapper {
+  margin: 20px;
+  & .group-chat {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    & button {
+      padding: 4px 8px;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    & h2 {
+      font-size: 1.2rem;
+      color: #0095f6;
+    }
+  }
+  & .all-chats {
+    height: 65vh;
+    overflow: auto;
+    & div {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 0;
+      font-size: 1.2rem;
+      font-weight: 300;
+    }
+    & .item {
+      padding: 4px 10px;
+      border-radius: 6px;
+      margin: 10px 0;
+      cursor: pointer;
+    }
+    & .active {
+      background-color: #0095f6;
+    }
+  }
+}

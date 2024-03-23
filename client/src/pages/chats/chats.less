@@ -1,0 +1,36 @@
+.chats-wrapper {
+  display: flex;
+  & .my-chats-wrapper {
+    width: 30%;
+  }
+  & .chat-box-wrapper {
+    width: 70%;
+  }
+  & .icon-back{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .chats-wrapper {
+    display: flex;
+
+    & .my-chats-wrapper {
+      display: none;
+    }
+    & .current-active-my-chats-wrapper {
+      display: block;
+      width: 100%;
+    }
+    & .chat-box-wrapper {
+      display: none;
+    }
+    & .current-active-chat-box {
+      display: block;
+      width: 100%;
+    }
+    & .icon-back{
+      display: block;
+    }
+  }
+}
